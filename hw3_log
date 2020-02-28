@@ -1,0 +1,62 @@
+Finish read graph
+
+num vertexes 196591
+
+finish initializing self edges
+
+--- iteration 1
+--- iteration 2
+--- iteration 3
+--- iteration 4
+--- iteration 5
+--- iteration 6
+--- iteration 7
+--- iteration 8
+--- iteration 9
+--- iteration 10
+--- iteration 11
+--- iteration 12
+--- iteration 13
+--- iteration 14
+--- iteration 15
+--- iteration 16
+--- iteration 17
+--- iteration 18
+--- iteration 19
+--- iteration 20
+
+----- Results analysis -----
+- Number of clusters: 47588
+- Min cluster size: 1
+- 20 percentile cluster size: 1
+- Median cluster size: 2
+- 80 percentile cluster size: 4
+- Max cluster size: 9278
+
+----- Max cluster sizes -----
+1 cluster size: 9278
+2 cluster size: 6848
+3 cluster size: 1925
+4 cluster size: 1798
+5 cluster size: 1554
+6 cluster size: 1216
+7 cluster size: 851
+8 cluster size: 720
+9 cluster size: 651
+10 cluster size: 564
+11 cluster size: 480
+12 cluster size: 471
+13 cluster size: 465
+14 cluster size: 434
+15 cluster size: 362
+16 cluster size: 337
+17 cluster size: 299
+18 cluster size: 285
+19 cluster size: 283
+20 cluster size: 234
+
+SplitUsers
+
+----- Accuracy analysis -----
+Accuracy for top–10 locations in cluster: 0.0408891
+Accuracy for overal top-10 locations: 0.0173119
